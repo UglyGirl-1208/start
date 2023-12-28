@@ -1,0 +1,4 @@
+[show]
+請問主角的名字叫什麼呢？[w]
+[hide]
+[load_scene,Q1_button]
